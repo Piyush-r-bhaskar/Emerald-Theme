@@ -6,7 +6,16 @@
 	"version": "1.0.0",
 	"publisher": "PiyushBhaskar",
 	"$schema": "vscode://schemas/color-theme",
-	"type": "dark",
+	"repository": {
+		"type":"git",
+		"url": "https://github.com/Piyush-r-bhaskar/emerald-dark"
+	},
+	"keywords": [
+		"theme",
+		"dark theme",
+		"emerald dark theme",
+		"vs code dark"
+	],
 	"colors": {
 		"activityBar.background": "#020F0B",
 		"activityBar.border": "#020F0B60",

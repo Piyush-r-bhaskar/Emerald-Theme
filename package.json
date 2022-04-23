@@ -2,10 +2,16 @@
     "name": "emerald-dark",
     "displayName": "Emerald",
     "description": "Emerald Dark",
-    "version": "0.0.1",
+    "version": "0.0.2",
+    "icon": "images/diamond.png",
+    "repository": {
+		"type":"git",
+		"url": "https://github.com/Piyush-r-bhaskar/emerald-dark"
+	},
+    "publisher": "PiyushBhaskar",
     "engines": {
-        "vscode": "^1.66.0"
-    },
+    "vscode": "^1.8.0"
+  },
     "categories": [
         "Themes"
     ],

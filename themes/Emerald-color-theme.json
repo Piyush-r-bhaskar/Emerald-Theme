@@ -3,7 +3,6 @@
 	"displayName": "Emerald Dark",
 	"type": "dark",
 	"description": "A Dark Emerald based theme.",
-	"version": "1.0.0",
 	"publisher": "PiyushBhaskar",
 	"$schema": "vscode://schemas/color-theme",
 	"repository": {

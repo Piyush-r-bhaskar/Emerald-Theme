@@ -2,7 +2,7 @@
     "name": "emerald-dark",
     "displayName": "Emerald",
     "description": "Emerald Dark",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "icon": "images/diamond.png",
     "repository": {
 		"type":"git",

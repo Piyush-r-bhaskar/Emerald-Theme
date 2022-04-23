@@ -1,0 +1,21 @@
+{
+    "name": "emerald-dark",
+    "displayName": "Emerald",
+    "description": "Emerald Dark",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Emerald",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Emerald-color-theme.json"
+            }
+        ]
+    }
+}

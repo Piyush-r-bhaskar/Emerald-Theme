@@ -2,7 +2,7 @@
     "name": "emerald-dark",
     "displayName": "Emerald Dark Theme",
     "description": "An Emerald Based Dark theme for VS Code.",
-    "version": "1.0.2",
+    "version": "0.0.5",
     "icon": "images/diamond.png",
     "author": {
 		"name": "Piyush Bhaskar",

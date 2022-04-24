@@ -1,5 +1,5 @@
 {
-	"name": "Emerald Dark",
+	"name": "Emerald Dark Theme",
 	"displayName": "Emerald Dark Theme",
 	"type": "dark",
 	"description": "A Dark Emerald based theme.",
@@ -10,10 +10,12 @@
 		"url": "https://github.com/Piyush-r-bhaskar/emerald-dark"
 	},
 	"keywords": [
-		"theme",
-		"dark theme",
+		"Emerald Piyush Bhaskar",
+		"Theme",
+		"Dark theme",
 		"emerald dark theme",
-		"vs code dark"
+		"vs code dark",
+		"Emerald Dark Theme"
 	],
 	"colors": {
 		// Base colors
@@ -66,13 +68,13 @@
 		// Progress bar
 		"progressBar.background": "#dfa736",
 		// Lists and trees
-		"list.activeSelectionBackground": "#1e273a",
+		"list.activeSelectionBackground": "#000c05",
 		"list.activeSelectionForeground": "#c6cbd1",
 		"list.dropBackground": "#1e273a",
-		"list.focusBackground": "#1e273a",
+		"list.focusBackground": "#012419",
 		"list.focusForeground": "#c6cbd1",
 		"list.highlightForeground": "#dfa736",
-		"list.hoverBackground": "#011a0b",
+		"list.hoverBackground": "#01200d",
 		"list.hoverForeground": "#c6cbd1",
 		"list.inactiveSelectionBackground": "#1e273a",
 		"list.inactiveSelectionForeground": "#c6cbd1",
@@ -86,7 +88,7 @@
 		"tree.indentGuidesStroke": "#1e273a",
 		// Activity Bar
 		"activityBar.background": "#000c05",
-		"activityBar.dropBorder": "#1e273a",
+		"activityBar.dropBorder": "#000c05",
 		"activityBar.foreground": "#8695b7",
 		"activityBar.inactiveForeground": "#8695b799",
 		"activityBar.border": "#000c05",
@@ -102,14 +104,14 @@
 		"sideBarSectionHeader.border": "#000c05",
 		// Editor Groups
 		"editorGroup.border": "#000c05",
-		"editorGroup.dropBackground": "#131927",
+		"editorGroup.dropBackground": "#022912",
 		"editorGroupHeader.noTabsBackground": "#000c05",
 		"editorGroupHeader.tabsBackground": "#000c05",
 		"editorGroupHeader.tabsBorder": "#000c05",
 		"editorGroup.emptyBackground": "#000c05",
 		"editorGroup.focusedEmptyBorder": "#000c05",
 		// Tabs
-		"tab.activeBackground": "#000c05",
+		"tab.activeBackground": "#022912",
 		"tab.unfocusedActiveBackground": "#000c05",
 		"tab.activeForeground": "#c6cbd1",
 		"tab.border": "#000c05",
@@ -417,7 +419,7 @@
 				"constant.escape"
 			],
 			"settings": {
-				"foreground": "#b793ff"
+				"foreground": "#c78ce2"
 			}
 		},
 		{
@@ -462,7 +464,7 @@
 				"string.unquoted.filter-pipe"
 			],
 			"settings": {
-				"foreground": "#970341"
+				"foreground": "#8a3257"
 			}
 		},
 		{
@@ -480,7 +482,7 @@
 				"variable.other.object"
 			],
 			"settings": {
-				"foreground": "#04869c"
+				"foreground": "#036e81"
 			}
 		},
 		{
@@ -537,7 +539,7 @@
 				"storage.type.attr.nunjucks"
 			],
 			"settings": {
-				"foreground": "#3ab64e"
+				"foreground": "#f0a534"
 			}
 		},
 		{
@@ -700,7 +702,7 @@
 				"string.regexp"
 			],
 			"settings": {
-				"foreground": "#16c049"
+				"foreground": "#1690c0"
 			}
 		},
 		{
